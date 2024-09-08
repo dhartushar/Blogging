@@ -1,2 +1,2 @@
 # Blogging
-Developig a common blogging site for businesses
+Developing a common blogging site for businesses
